@@ -1,5 +1,5 @@
-# warehouse-quad
-Program for a warehouse maintainance (Tilt) Quadrotor.
+# Warehouse-quad
+Program for a warehouse maintainance (Tilt) Quadrotor. Implemented Product scanning in a warehouse by implementing a qr code scnner and this whole process of scanning the qr codes and navigating through the warehouse was autonomously dealt. 
 
 # Installation
 
